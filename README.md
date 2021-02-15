@@ -1,9 +1,6 @@
 # Facial-Recognition-Python-OpenCV
 Description: Facial recognition program to detect faces on an image or live camera feed using Python and OpenCV.
 
-
-## Creating face detection on a photo and live video feed:
-
 ##  Tutorial Video: 
      https://www.youtube.com/watch?v=7IFhsbfby9s&list=WL&index=6&ab_channel=AdarshMenon 
 
