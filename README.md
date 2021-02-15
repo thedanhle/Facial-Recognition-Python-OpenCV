@@ -4,7 +4,7 @@ Description: Facial recognition program to detect faces on an image or live came
 
 ## Creating face detection on a photo and live video feed:
 
-Tutorial Video: https://www.youtube.com/watch?v=7IFhsbfby9s&list=WL&index=6&ab_channel=AdarshMenon 
+- Tutorial Video: https://www.youtube.com/watch?v=7IFhsbfby9s&list=WL&index=6&ab_channel=AdarshMenon 
 
 - Install OpenCV 4 for Python on Ubuntu / Linux:  
     1. https://www.youtube.com/watch?v=cGmGOi2kkJ4&list=WL&index=8&ab_channel=ProgrammingKnowledge 
